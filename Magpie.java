@@ -48,8 +48,8 @@ public class Magpie
     {
         response = "Tell me more about your pets.";
     }
-        else if (findKeyword(statement,"Mr. Finkelstein")>=0){
-            response="He sounds like a good teacher.";
+        else if (findKeyword(statement,"Logan Cady")>=0){
+            response="He fats asf";
         }
         else if (statement.trim().equals("")){
             response="Say something, please.";
@@ -57,8 +57,8 @@ public class Magpie
         else if (findKeyword(statement,"Hey")>=0){
             response="Hello how are you";
         }
-        else if (findKeyword(statement,"Hello")>=0){
-            response="Hi how are you";
+        else if (findKeyword(statement,"chumps psl score")>=0){
+            response="Pedro Cl Jonas htn Sam ltn potential Logan heightcell parker cortisol max Dylan true stacy Augie sub 3";
         }
         else if (findKeyword(statement,"Hi")>=0){
             response="Hey how are you";
